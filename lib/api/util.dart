@@ -5,7 +5,7 @@ class API {
 
   //Connection string and urls for connections
   // static const BASE_URL = 'http://192.168.0.102:3000';
-  static const BASE_URL = 'https://ar-demo-47.herokuapp.com';
+  static const BASE_URL = 'https://socket-chat-server-minato.herokuapp.com';
 
   //routes
   static const Register = '/user/register';
